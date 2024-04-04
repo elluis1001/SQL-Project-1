@@ -1,5 +1,3 @@
-# SQL-Project-1
-
 # SQL Employee Database Analysis
 
 ## Overview
